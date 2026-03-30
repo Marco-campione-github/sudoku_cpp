@@ -36,6 +36,13 @@
 *.exe
 *.out
 *.app
+main
 
 # debug information files
 *.dwo
+
+# macOS debug symbols
+*.dSYM/
+
+# VSCode settings
+.vscode/
