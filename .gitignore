@@ -46,3 +46,6 @@ main
 
 # VSCode settings
 .vscode/
+
+# macOS
+.DS_Store
