@@ -47,5 +47,8 @@ main
 # VSCode settings
 .vscode/
 
+# Zed debug configuration
+.zed/debug.json
+
 # macOS
 .DS_Store
